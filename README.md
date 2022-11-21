@@ -1,4 +1,4 @@
-# Transformer_Time_Series
+# TCNASA
 
 This is an official implementation of Modelling Long- and Short-term Multi-dimensional Patterns in Predictive Maintenance with Accumulative Attention
 
